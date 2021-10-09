@@ -6,5 +6,9 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 =======
 Creating a new branch is quick AND simple.
+<<<<<<< HEAD
 >>>>>>> feature1
-Whether Git can recognise case a or A?
+Whether Git can recognise case ?
+=======
+Whether Git can distinguish case?
+>>>>>>> feature1
