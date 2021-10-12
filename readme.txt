@@ -15,6 +15,3 @@ Whether Git can distinguish case?
 >>>>>>> feature1
 =======
 Creating a new branch is quick.
-I can't understand the "--no-ff".
-I can't realize the mircle.
->>>>>>> dev
